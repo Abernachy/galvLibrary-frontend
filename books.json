@@ -1,0 +1,14 @@
+[
+
+    {"title":"Monster Hunter" ,"author":"R.L. Stine", "ISBN":123456 , "Genre_ID":"1"  , "checked_out":false, "front_cover": "https://bit.ly/32WMcNK" },
+    {"title":"Monster Hunter:The Sequel" ,"author":"L.L. Stine", "ISBN":123456 , "Genre_ID":"1"  , "checked_out":false, "front_cover": "https://bit.ly/32WMcNK" },
+        
+    {"title":"Hunter:The Reckoning" ,"author":"R.L. Stine", "ISBN":123456 , "Genre_ID":"1"  , "checked_out":false, "front_cover": "https://bit.ly/32WMcNK" },
+        
+    {"title":"Toddlers: Worse than Satan?" ,"author":"J. Haddock", "ISBN":123456 , "Genre_ID":"1"  , "checked_out":false, "front_cover": "https://bit.ly/32WMcNK" },
+        
+    {"title":"The Italian Karate Robot From The Future Past" ,"author":"G. Oladipo", "ISBN":123456 , "Genre_ID":"1"  , "checked_out":false, "front_cover": "https://bit.ly/32WMcNK" },
+    {"title":"Secrets of the UFO Keepers and Government Lies" ,"author":"Z. Mansell", "ISBN":123456 , "Genre_ID":"1"  , "checked_out":false, "front_cover": "https://bit.ly/32WMcNK" }
+    
+
+]
